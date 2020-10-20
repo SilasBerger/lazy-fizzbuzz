@@ -1,0 +1,22 @@
+{
+  "name": "lazy-fizzbuzz",
+  "version": "1.0.0",
+  "description": "A lazy fizzbuzz implementation.",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "start": "node fizzbuzz.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilasBerger/lazy-fizzbuzz.git"
+  },
+  "author": "Silas Berger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SilasBerger/lazy-fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/SilasBerger/lazy-fizzbuzz#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
